@@ -1,0 +1,22 @@
+objectif d'aujourd'hui:
+faire le front end
+	- les 2 pages + les composants des pages + routeur
+
+
+link the obtention of the data so we don't seek them independently
+
+do the login and the add user using json web token 
+
+set the bdd mongo once the datas are changed 
+
+projectntools
+	materials
+	project
+	tools
+	user
+
+	user -> list project 
+	project -> list tools	
+			-> list materials
+
+	linked by _id (ObjectId mongo)
